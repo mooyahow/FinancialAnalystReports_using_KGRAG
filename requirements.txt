@@ -1,0 +1,10 @@
+google-generativeai
+sentence-transformers
+transformers
+chromadb
+neo4j
+pdfplumber
+llama-index-core
+pandas
+openpyxl
+tqdm
